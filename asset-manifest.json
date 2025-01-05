@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Fourtrax-tipTap-assignment/static/css/main.afe0c6d1.css",
+    "main.js": "/Fourtrax-tipTap-assignment/static/js/main.13f4e177.js",
+    "static/js/488.a9d020cc.chunk.js": "/Fourtrax-tipTap-assignment/static/js/488.a9d020cc.chunk.js",
+    "index.html": "/Fourtrax-tipTap-assignment/index.html",
+    "main.afe0c6d1.css.map": "/Fourtrax-tipTap-assignment/static/css/main.afe0c6d1.css.map",
+    "main.13f4e177.js.map": "/Fourtrax-tipTap-assignment/static/js/main.13f4e177.js.map",
+    "488.a9d020cc.chunk.js.map": "/Fourtrax-tipTap-assignment/static/js/488.a9d020cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afe0c6d1.css",
+    "static/js/main.13f4e177.js"
+  ]
+}
